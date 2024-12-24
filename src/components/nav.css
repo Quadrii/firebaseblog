@@ -1,0 +1,18 @@
+.navwrap {
+    padding: 10px;
+    background-color:coral;
+    margin-bottom: 20px;
+}
+.navlist {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: end;
+}
+.navlist li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
